@@ -1,4 +1,4 @@
-## Hi there my name is Klaudjo Shkurta.
+## Hi there my name is Klaudjo Shkurta and I am a self educated frontend & android developer.
 
 <!--
 **klaudjoshkurta/klaudjoshkurta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
