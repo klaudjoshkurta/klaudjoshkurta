@@ -2,7 +2,7 @@
 
 ### Self-educated Frontend & Android Developer | Inspiring Startup Founder | Tech Enthusiast
 
-- 💻 **Frontend Developer**: I specialize in creating beautiful and responsive web interfaces using modern frameworks and technologies
+- 💻 **Frontend Developer**: I specialize in creating beautiful and responsive web interfaces using modern frameworks and technologies.
 - 📱 **Android Developer**: I develop user-friendly and efficient Android applications.
 - 🚀 **Inspiring Startup Founder**: On a journey to bring my entrepreneurial ideas to life and make a positive impact in the tech industry.
 - 🎓 **Self-educated**: I'm a lifelong learner who is always exploring new technologies and improving my skills.
