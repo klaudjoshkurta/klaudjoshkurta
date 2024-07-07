@@ -1,4 +1,4 @@
-# Hi there, I'm Klaudjo Shkurta 👋
+# Hi there, I'm Klaudjo Shkurta
 
 ### Self-educated Frontend & Android Developer | Inspiring Startup Founder | Tech Enthusiast
 
