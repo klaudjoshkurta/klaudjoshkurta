@@ -1,6 +1,6 @@
 # Hi there, I'm Klaudjo Shkurta
 
-### Self-educated Frontend & Android Developer | Inspiring Startup Founder | Tech Enthusiast
+### Self-educated Frontend & Android Developer | Inspiring Startup Founder | Tech Enthusiast.
 
 - 💻 **Frontend Developer**: I specialize in creating beautiful and responsive web interfaces using modern frameworks and technologies.
 - 📱 **Android Developer**: I develop user-friendly and efficient Android applications.
