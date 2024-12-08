@@ -1,1 +1,1 @@
-Android developer with a strong background in frontend development. Expertise in Kotlin, Jetpack Compose, and JavaScript frameworks. Proven ability to create engaging and user-friendly mobile applications. 
+Highly motivated and results-oriented frontend developer with 5+ years of experience building and maintaining responsive and user-friendly websites and web applications. Proven ability to modernize legacy systems, optimize performance, and design engaging user interfaces. Expertise in JavaScript, Typescript, Vue, React, and a range of frontend technologies.
