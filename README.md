@@ -1,5 +1,5 @@
 ### Hi, I'm Klaudjo and I love building apps.
-Highly motivated and results-oriented frontend developer with 5+ years of experience building and maintaining responsive and user-friendly websites and web applications. Proven ability to modernize legacy systems, optimize performance, and design engaging user interfaces. Expertise in JavaScript, Typescript, Vue, React, and a range of frontend technologies
+Highly motivated and results-oriented frontend developer with 5+ years of experience building and maintaining responsive and user-friendly websites and web applications. Proven ability to modernize legacy systems, optimize performance, and design engaging user interfaces. Expertise in JavaScript, Typescript, Vue, React, and a range of frontend technologies.
 <!--
 Jan
 [01/01][02/01][03/01][04/01][05/01][06/01][07/01]
@@ -10,5 +10,5 @@ Jan
 
 Feb
 [xxxxx][02/02][03/02][04/02][05/02][06/02][07/02]
-[08/02][09/02][10/02][11/02][12/02]
+[08/02][09/02][10/02][11/02][12/02][13/02]
 -->
